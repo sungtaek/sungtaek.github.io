@@ -1,5 +1,5 @@
 ---
-layout: categories
-icon: fas fa-stream
+layout: System Architecture
+icon: fas network-wired
 order: 1
 ---
